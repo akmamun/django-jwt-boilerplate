@@ -8,5 +8,5 @@ pip install -r requirements.txt
 ```
 
 ### Lets Run
-- `python manage.py`
+- `python manage.py runserver`
 
