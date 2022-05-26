@@ -185,3 +185,4 @@ out/
 static/
 *.http
 .vscode/
+logs/
