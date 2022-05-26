@@ -3,11 +3,8 @@
 - Copy your .env file, for example follow .env.example
 
 ## Installation
-Requirements:
-- PostgresQL 13
 
 Follow these steps:
-
 - Install latest Python3
 - Install `virtualenv` with `pip install virtualenv`
 - Create an env in this folder called `env` (naming is important) `virtualenv ./env`
