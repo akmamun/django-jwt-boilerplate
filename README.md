@@ -1,6 +1,4 @@
 ## Django Project initializer for Ready Work 
-### Locally Up
-- Copy your .env file, for example follow .env.example
 
 ## Installation
 
