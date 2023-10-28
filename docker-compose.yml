@@ -7,7 +7,7 @@ services:
     restart: always
     volumes:
       - postgres_data:/var/lib/postgresql/data
-    env_file: ./.env.docker
+    env_file: .env
     networks:
       - servernet
 

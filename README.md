@@ -1,5 +1,7 @@
 ## Django Project initializer for Ready Work 
 
+Effortlessly kickstart your Django project with Django REST framework and drf-simple-jwt.
+
 ## Installation
 
 Follow these steps:
@@ -8,15 +10,18 @@ Follow these steps:
 - Create an env in this folder called `env` (naming is important) `virtualenv ./env`
 - Activate the python environment with `source ./env/bin/activate`
 - Install the python Dependencies with `pip install -r requirements.txt`
-- You are now ready to go!
+
+Now you're ready to go!
 
 ## Running
-- Copy `env.example` as `.env` and put relevant value
-- `python manage.py runserver`
-- [Postman Collection](https://www.getpostman.com/collections/68de849dd7c6e44e6692)
+- Copy the `env.example` file as `.env` and update it with the relevant values.
+- Start the Django development server with the command: `python manage.py runserver`.
+
+For more details, refer to the [Postman Collection](https://www.getpostman.com/collections/68de849dd7c6e44e6692).
 
 ## Features 
-- Django Boilerplate with django-rest-framework and drf-simple-jwt 
-- Login(email/phone)
-- Registration
+- User Login (email/phone)
+- User Registration
+- Token Refresh
+
 
